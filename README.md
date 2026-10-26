@@ -18,16 +18,18 @@ I have helped lead Help Desk operations through changing workloads and contribut
 
 | Project | Engineering focus | Current stage |
 | --- | --- | --- |
+| [Fuzion Driving School](https://about.dhrub.com.np/cases/fuzion-driving-platform.html) | React/Node.js website, database-backed booking and role-aware workflows. | [Public website live](https://fuziondrivingschool.com.au/); signed-in acceptance separate. |
+| [Exception Studio](https://about.dhrub.com.np/cases/exception-studio.html) | React/TypeScript, Node.js and SQLite; transactional exception review, revision checks, idempotent retries and frozen CSV exports. | [Live fictional-data demo](https://studio.dhrub.com.np/) · 48 automated checks. |
 | [FigureRelay](https://about.dhrub.com.np/cases/figurerelay.html) | Python/FastAPI, SQLite and React/TypeScript; reviewed Office exports. | Local, single-user prototype. |
+| [Zamtas websites](https://about.dhrub.com.np/cases/zamtas-websites.html) | Website design and development for corporate/door-system information and a specialist traffic-products catalogue. | Two public sites: [Zamtas](https://zamtas.com.au/) and [Zamtas Traffic](https://zamtastraffic.com.au/). |
+| [MRR Free Tools](https://about.dhrub.com.np/cases/mrr-free-tools.html) | TypeScript document, image and structured-data utilities. | Live application and guide; workflow-specific checks. |
 | [Data Workbench](https://about.dhrub.com.np/cases/data-workbench.html) | CSV validation, exception review and service-ticket reporting. | Synthetic browser demonstration. |
 | [Triage Lab](https://about.dhrub.com.np/ai-lab/) | Original JavaScript Naive Bayes classifier; word evidence, held-out evaluation and explicit human review. | Live educational prototype using fictional requests; no automated dispatch. |
-| [Pocket Arcade](https://about.dhrub.com.np/cases/pocket-arcade.html) | Browser games, configurable play pace and device-local scores. | Live browser collection. |
-| [Fuzion Driving School](https://about.dhrub.com.np/cases/fuzion-driving-platform.html) | React/Node.js website, database-backed booking and role-aware workflows. | Public website live; signed-in acceptance separate. |
-| [MRR Free Tools](https://about.dhrub.com.np/cases/mrr-free-tools.html) | TypeScript document, image and structured-data utilities. | Live application and guide; workflow-specific checks. |
 | [AlloyPDF](https://about.dhrub.com.np/cases/alloypdf.html) | React/TypeScript PDF workflows integrating credited open-source engines. | Internal development build. |
 | [Helpdesk Air](https://about.dhrub.com.np/cases/helpdesk-air.html) | Python/FastAPI and PostgreSQL; queues, workflows and service targets. | Controlled test environment. |
+| [Pocket Arcade](https://about.dhrub.com.np/cases/pocket-arcade.html) | Browser games, configurable play pace and device-local scores. | Live browser collection. |
 
-FigureRelay’s implementation, run instructions and reproducible demonstration are available in its [public GitHub repository](https://github.com/dhrubasuz/FigureRelay).
+Explore the source and run instructions for [Exception Studio](https://github.com/dhrubasuz/exception-studio) and [FigureRelay](https://github.com/dhrubasuz/FigureRelay). Exception Studio's 48 checks passed on **27 October 2026**: 35 domain/store/HTTP checks and 13 UI checks. Its public HTTPS review-to-export walkthrough was verified separately that day. It uses fictional fixtures and anonymous 24-hour workspaces, without verified organisational approval identities.
 
 ## Background
 
