@@ -20,6 +20,7 @@ I have helped lead Help Desk operations through changing workloads and contribut
 | --- | --- | --- |
 | [FigureRelay](https://about.dhrub.com.np/cases/figurerelay.html) | Python/FastAPI, SQLite and React/TypeScript; reviewed Office exports. | Local, single-user prototype. |
 | [Data Workbench](https://about.dhrub.com.np/cases/data-workbench.html) | CSV validation, exception review and service-ticket reporting. | Synthetic browser demonstration. |
+| [Triage Lab](https://about.dhrub.com.np/ai-lab/) | Original JavaScript Naive Bayes classifier; word evidence, held-out evaluation and explicit human review. | Live educational prototype using fictional requests; no automated dispatch. |
 | [Pocket Arcade](https://about.dhrub.com.np/cases/pocket-arcade.html) | Browser games, configurable play pace and device-local scores. | Live browser collection. |
 | [Fuzion Driving School](https://about.dhrub.com.np/cases/fuzion-driving-platform.html) | React/Node.js website, database-backed booking and role-aware workflows. | Public website live; signed-in acceptance separate. |
 | [MRR Free Tools](https://about.dhrub.com.np/cases/mrr-free-tools.html) | TypeScript document, image and structured-data utilities. | Live application and guide; workflow-specific checks. |
