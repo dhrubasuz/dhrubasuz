@@ -16,17 +16,17 @@ I have helped lead Help Desk operations through changing workloads and contribut
 
 ## Selected projects
 
-### [FigureRelay](https://github.com/dhrubasuz/FigureRelay)
+| Project | Engineering focus | Current stage |
+| --- | --- | --- |
+| [FigureRelay](https://about.dhrub.com.np/cases/figurerelay.html) | Python/FastAPI, SQLite and React/TypeScript; reviewed Office exports. | Local, single-user prototype. |
+| [Data Workbench](https://about.dhrub.com.np/cases/data-workbench.html) | CSV validation, exception review and service-ticket reporting. | Synthetic browser demonstration. |
+| [Pocket Arcade](https://about.dhrub.com.np/cases/pocket-arcade.html) | Browser games, configurable play pace and device-local scores. | Live browser collection. |
+| [Fuzion Driving School](https://about.dhrub.com.np/cases/fuzion-driving-platform.html) | React/Node.js website, database-backed booking and role-aware workflows. | Public website live; signed-in acceptance separate. |
+| [MRR Free Tools](https://about.dhrub.com.np/cases/mrr-free-tools.html) | TypeScript document, image and structured-data utilities. | Live application and guide; workflow-specific checks. |
+| [AlloyPDF](https://about.dhrub.com.np/cases/alloypdf.html) | React/TypeScript PDF workflows integrating credited open-source engines. | Internal development build. |
+| [Helpdesk Air](https://about.dhrub.com.np/cases/helpdesk-air.html) | Python/FastAPI and PostgreSQL; queues, workflows and service targets. | Controlled test environment. |
 
-A local reporting prototype that links named source figures into reports and presentations. Its review workflow connects source validation, candidate revisions, exact-revision approval and frozen Word/PowerPoint exports. Built with Python/FastAPI, SQLite and React/TypeScript, with a reproducible synthetic demonstration and documented operating limits.
-
-### [Data Workbench](https://about.dhrub.com.np/lab/)
-
-A browser-based CSV analysis demonstration with validation, exception review, filters, charts and downloadable synthetic examples. It exposes reporting scope and held rows alongside accepted data, with processing kept in browser memory.
-
-### [PocketArcade](https://arcade.suzata.com.np)
-
-A browser-game collection with configurable play pace and device-local best scores. It complements my business systems work with practical interface and game-development exploration. The browser demonstration is distinct from a mobile app-store release.
+FigureRelay’s implementation, run instructions and reproducible demonstration are available in its [public GitHub repository](https://github.com/dhrubasuz/FigureRelay).
 
 ## Background
 
