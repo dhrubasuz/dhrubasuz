@@ -20,7 +20,7 @@ I have helped lead Help Desk operations through changing workloads and contribut
 
 A local reporting prototype that links named source figures into reports and presentations. Its review workflow connects source validation, candidate revisions, exact-revision approval and frozen Word/PowerPoint exports. Built with Python/FastAPI, SQLite and React/TypeScript, with a reproducible synthetic demonstration and documented operating limits.
 
-### [Data Workbench](https://dhruba-poudel-portfolio.dhrubapoudelgpt.chatgpt.site/lab/)
+### [Data Workbench](https://about.dhrub.com.np/lab/)
 
 A browser-based CSV analysis demonstration with validation, exception review, filters, charts and downloadable synthetic examples. It exposes reporting scope and held rows alongside accepted data, with processing kept in browser memory.
 
@@ -30,13 +30,13 @@ A browser-game collection with configurable play pace and device-local best scor
 
 ## Background
 
-I hold a **Master of Information Technology from Charles Sturt University**, with a study focus in cloud computing and networking.
+I hold a **Master of Information Technology from Charles Sturt University**.
 
 Facebook acknowledged my responsible vulnerability disclosure in its **2018 White Hat Hall of Fame**. [Archived acknowledgement](https://web.archive.org/web/20181204041319/https://www.facebook.com/whitehat/thanks/).
 
 ## Connect
 
-[Portfolio](https://dhruba-poudel-portfolio.dhrubapoudelgpt.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/poudeldhruba/) · [GitHub](https://github.com/dhrubasuz)
+[Portfolio](https://about.dhrub.com.np) · [LinkedIn](https://www.linkedin.com/in/poudeldhruba/) · [GitHub](https://github.com/dhrubasuz)
 
 ---
 
