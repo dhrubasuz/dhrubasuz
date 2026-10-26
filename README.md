@@ -7,6 +7,8 @@ I turn operational requirements into practical applications, validated data work
 ## What I work on
 
 - **Web and software development:** PHP, JavaScript, React, Node.js, HTML/CSS, SQL/MySQL and WordPress.
+- **WordPress and commerce:** custom theme and plugin development, API integration and WooCommerce.
+- **Branding and interface design:** logo design, visual identities and responsive websites.
 - **Automation and data:** Excel/VBA, CSV transformation, data mapping, validation, exception handling and reconciliation.
 - **Reporting:** operational dashboards, source-data checks, reporting definitions and clear explanations of gaps and exceptions.
 - **Technical delivery:** requirements, testing, user acceptance, Git, Jira, documentation and handover.
@@ -21,6 +23,7 @@ I have helped lead Help Desk operations through changing workloads and contribut
 | [Fuzion Driving School](https://about.dhrub.com.np/cases/fuzion-driving-platform.html) | React/Node.js website, database-backed booking and role-aware workflows. | [Public website live](https://fuziondrivingschool.com.au/); signed-in acceptance separate. |
 | [Exception Studio](https://about.dhrub.com.np/cases/exception-studio.html) | React/TypeScript, Node.js and SQLite; transactional exception review, revision checks, idempotent retries and frozen CSV exports. | [Live fictional-data demo](https://studio.dhrub.com.np/) · 48 automated checks. |
 | [FigureRelay](https://about.dhrub.com.np/cases/figurerelay.html) | Python/FastAPI, SQLite and React/TypeScript; reviewed Office exports. | Local, single-user prototype. |
+| [Commerce Reconcile & Commerce Canvas](https://about.dhrub.com.np/cases/commerce-reconcile.html) | Original PHP engine and WordPress/WooCommerce plugin, custom theme, logo and brand system. | [Fictional-data PHP demo](https://about.dhrub.com.np/commerce/), [theme preview](https://about.dhrub.com.np/commerce/theme/preview/) and [public source](https://github.com/dhrubasuz/commerce-reconcile); real local WordPress checks documented. |
 | [Zamtas websites](https://about.dhrub.com.np/cases/zamtas-websites.html) | Website design and development for corporate/door-system information and a specialist traffic-products catalogue. | Two public sites: [Zamtas](https://zamtas.com.au/) and [Zamtas Traffic](https://zamtastraffic.com.au/). |
 | [MRR Free Tools](https://about.dhrub.com.np/cases/mrr-free-tools.html) | TypeScript document, image and structured-data utilities. | Live application and guide; workflow-specific checks. |
 | [Data Workbench](https://about.dhrub.com.np/cases/data-workbench.html) | CSV validation, exception review and service-ticket reporting. | Synthetic browser demonstration. |
